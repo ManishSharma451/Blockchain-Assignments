@@ -2,7 +2,7 @@ Blockchain Essential- Assignment-1
 
 Ques.1 What is your understanding of Blockchain??
 
-           Blockchain is a type of Distributed Ledger Technology (DLT) in which transactions are recorded with an immutable cryptographic            signature called a hash.Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack,            or cheat the system.
+           Blockchain is a type of Distributed Ledger Technology (DLT) in which transactions are recorded with an immutable cryptographic signature called a hash.Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
 
 Ques.2 What is the core problem Blockchain trying to solve?
 
@@ -22,8 +22,8 @@ Ques.3  What are the few features which Block chain will give u?
 
 Ques.4   What all things does a Block Contain?
 
-            Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a             Merkle tree).Each block header contains a version number, a timestamp, the hash used in the previous block, the hash of the Merkle             Root, the nonce, and the target hash. The miner focuses on the nonce, a string of numbers. This number is appended to the hashed             contents of the previous block, which is then hashed.
+            Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree).Each block header contains a version number, a timestamp, the hash used in the previous block, the hash of the Merkle Root, the nonce, and the target hash. The miner focuses on the nonce, a string of numbers. This number is appended to the hashed contents of the previous block, which is then hashed.
 
 Ques.5  How is the verifiability of Blockchain is been attained ?
  
-            Hash function is used to verifiability of blockchian as comparing hash is generated and it always include hash of previous data. since             at a given time both hash should match cause it's a one way encryption.When a block of data was changed for a particular person, he             can verify his data with the other people to which the chained blocks of data is shared. In this way, verifiability is attained.
+            Hash function is used to verifiability of blockchain as comparing hash is generated and it always include hash of previous data. since at a given time both hash should match cause it's a one way encryption.When a block of data was changed for a particular person, he can verify his data with the other people to which the chained blocks of data is shared. In this way, verifiability is attained.
